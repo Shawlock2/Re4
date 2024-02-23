@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+span{
+    color: red;
+}
+p{
+    text-indent: 15pt;
+    text-align: justify;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-image: url(img/re4-2.jpg);
+}
+
+article{
+    background-image: url(img/re4-8.jpg);
+    min-width: 450px;
+    max-width: 620px;
+    border-radius: 8px;
+    padding: 5px 8px;
+    border-color: black;
+    border-style: ridge;
+    box-shadow: 8px 5px 5px rgba(0, 0, 0, 0.699);
+    color: aliceblue;
+}
+section{
+    color: aliceblue;
+    background-image: url(img/re4-5.jpg);
+    min-width: 450px;
+    max-width: 620px;
+    border-radius: 8px;
+    padding: 5px 8px;
+    border-color: rgba(0, 0, 0, 0.445);
+    border-style: ridge;
+    box-shadow: 8px 5px 5px rgba(0, 0, 0, 0.699);
+}
+a{
+    color: red;
+}
